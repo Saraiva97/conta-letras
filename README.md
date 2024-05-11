@@ -1,7 +1,6 @@
-# conta-letras
-conta quantas letras você utilizou 
 
 # Projeto: Contador de Letras em Palavras em Linguagem C
+**Conta Quantas Letras Você Utilizou**
 
 **Objetivo do Projeto**
 - Desenvolver uma ferramenta em linguagem C para analisar uma palavra ou frase e contar quantas letras ela contém.
